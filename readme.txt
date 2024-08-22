@@ -51,7 +51,7 @@ Plugin Developed by:
 [IT Support Company Calgary](https://xllentech.com/)
 Our Other IT Services:
 [IT Services Canada][VoIP Phone System](https://xllentech.com/it-services/)
-[Onsite IT Support USA & Canada](https://xllentech.com/)
+[Onsite IT Support USA & Canada](https://xllentech.com/about-us/)
 [VoIP Phone System](https://xllentech.com/it-services/voip-phone-system/)
 [Managed IT Services Calgary](https://xllentech.com/it-services/managed-it/)
 [IT Consultancy Calgary](https://xllentech.com/it-services/it-consultancy/)

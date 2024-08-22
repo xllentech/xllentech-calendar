@@ -12,24 +12,52 @@ The Best English Islamic Calendar plugin on Wordpress. It shows calendar with En
 
 == Description ==
 
-Xllentech English Islamic Calendar plugin shows calendar with english and islamic dates by the current english month. This calendar plugin is fully programmed in php and requires no maintenance for Islamic dates year to year.
 
-Islamic month names is customizable from Settings page. You need to update number of days of the Islamic month only if the number of days for the month is different than the default shown in the calendar.
+Xllentech English Islamic Calendar plugin shows calendar with English and Islamic dates by the current English month. This calendar plugin is fully programmed in php and requires no maintenance for Islamic dates year to year.
 
-The plugin comes with first islamic date for the current english month, if it doesn't match with your area islamic date, you can change it from settings page. Create a support ticket for guidance. After that, This plugin calculates and keeps record of islamic dates of all the following months lifetime.
+English and Islamic month names are customizable from Settings page. You need to update number of days of the Islamic month only if the number of days for the month is different(moon is sighted on different day) than the default shown in the calendar.
 
-In addition to the calendar widget, this plugin also adds widget to show today's english date and islamic date. See Screnshots.
+The plugin comes with first Islamic date for the current English month, if it doesn't match with your area Islamic date, you can change it from settings page. After that, This plugin calculates and keeps record of Islamic dates of all the following months lifetime.
 
-The Pro Version of the calendar provides next month and previous month links, so that viewers can go back or forward for any past or future months with no limit. Also show Today's Date as colored box. It also shows Islamic events on Calendar inside the day box. It uses Green text for Wiladat events, Red for Martyrdom Events and Black for Wafat Events. Events are shown only if the required file has data in it. See screenshots.
+In addition to the calendar widget, this plugin also adds widget to show today's English date and Islamic date. See Screenshots.
 
-* Resposive CSS, Fully compatible with all screen sizes.
+= Features =
+
+* Responsive CSS
 * Be worry free for Islamic dates, Requires no maintenance year to year
-* Show Today's Dates with separate widget
+* Show Today's English, Islamic Date with separate widget
 * Supports shortcode, use [xcalendar] to display the widget anywhere
-* Supports Timezones for Worldwide use
+* Supports shortcode for Today Widget, use [xllentech-today] to display the Today's dates
+* Supports Time zones for Worldwide use
 * Email Feature for easy reminder and updating of Islamic Month Days
+* Color Themes
+* Show Week Starting Sunday or Monday
+* Customizable Islamic and English Month names
 
-See demo at: http://xllentech.com/web-development/wordpress-plugins/xllentech-calendar/
+= Shortcodes you can use =
+
+[xcalendar] - Displays XllenTech English Islamic Calendar
+[xllentech-today] - Displays Today's English and Islamic Date
+[xllentech-islamic-days] - Displays form to update Month days(29/30) for the Islamic month, used in private page as explained in [Documentation](https://apps.xllentech.com/documentation/how-to-use-the-private-page-to-update-islamic-month-days/).
+
+= View Demo =
+- [Xllentech Calendar Basic](https://apps.xllentech.com/xllentech-english-islamic-calendar/)
+
+= Need Help? =
+- [Documentation](https://apps.xllentech.com/documentation/)
+- [Contact Author](https://apps.xllentech.com/contact-us/)
+
+Plugin Developed by:
+[IT Support Company Calgary](https://xllentech.com/)
+Our Other IT Services:
+[IT Services Canada][VoIP Phone System](https://xllentech.com/it-services/)
+[Onsite IT Support USA & Canada](https://xllentech.com/)
+[VoIP Phone System](https://xllentech.com/it-services/voip-phone-system/)
+[Managed IT Services Calgary](https://xllentech.com/it-services/managed-it/)
+[IT Consultancy Calgary](https://xllentech.com/it-services/it-consultancy/)
+[Cyber Security Calgary](https://xllentech.com/it-services/cyber-security-company-calgary/)
+[Online Company Letterhead](https://verifiableletter.com/)
+[Cloud Migration Calgary](https://xllentech.com/it-services/cloud-computing/)
 
 
 == Installation ==

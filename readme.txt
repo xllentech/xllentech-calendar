@@ -47,7 +47,7 @@ In addition to the calendar widget, this plugin also adds widget to show today's
 - [Documentation](https://apps.xllentech.com/documentation/)
 - [Contact Author](https://apps.xllentech.com/contact-us/)
 
-Plugin Developed by:
+Our Other IT Services:
 [IT Support Company Calgary](https://xllentech.com/ "IT Support Company Calgary")
 Our Other IT Services:
 [IT Services Canada][VoIP Phone System](https://xllentech.com/it-services/)

@@ -1,6 +1,6 @@
 === Xllentech English Islamic Calendar ===
 Contributors: xllentech
-Donate link: http://xllentech.com/
+Donate link: https://xllentech.com/
 Tags: calendar, islamic calendar, hijri calendar, english islamic calendar, gregorian hijri calendar, xllentech calendar
 Requires at least: 3.0
 Tested up to: 4.5.3
